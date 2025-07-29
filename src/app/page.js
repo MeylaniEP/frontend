@@ -407,7 +407,7 @@ export default function HomePage() {
               border: '1px dashed #4a4a4a',
             }}>
               <FaMagic style={{ fontSize: '3em', color: '#82b1ff' }} />
-              <p>Masukkan data di sebelah kiri dan klik 'Prediksi Sekarang' untuk melihat hasil dan metrik evaluasi model.</p>
+              <p>Masukkan data di sebelah kiri dan klik Prediksi Sekarang untuk melihat hasil dan metrik evaluasi model.</p>
             </div>
           )}
 
