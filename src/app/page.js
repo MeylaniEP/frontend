@@ -69,7 +69,7 @@ export default function HomePage() {
         }
       }
 
-      const response = await fetch(`http://202.74.75.108:8000/predict_all`, {
+      const response = await fetch(`https://meylani-ml.kalikode.id/predict_all`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
